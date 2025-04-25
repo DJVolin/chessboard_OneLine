@@ -1,1 +1,1 @@
-print([[f"{chr(x+65)}{str(y)}: White" if y % 2 == x % 2 else f"{chr(x+65)}{str(y)}: Black" for y in range(1,9)] for x in range(8)])
+print([[f"{chr(col+65)}{str(row)}: White" if row % 2 == col % 2 else f"{chr(col+65)}{str(row)}: Black" for row in range(1,9)] for col in range(8)])
