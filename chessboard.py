@@ -1,0 +1,1 @@
+print([[f"{chr(x+65)}{str(y)}: White" if y % 2 == x % 2 else f"{chr(x+65)}{str(y)}: Black" for y in range(1,9)] for x in range(8)])
