@@ -1,6 +1,6 @@
 ## Chessboard in one line of code
 
-#### A one-line Python program utilizing a nested list comprehension that outputs a representation of a chessboard.
+#### A one-line Python program utilizing a nested list comprehension that outputs a representation of a chessboard. A revisit of a prior challenge to showcase my growth.
 
 Output:
 
